@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:00:24.605283
+#+DATE: 2015-08-30 21:00:26.933021
 #+TITLE: 菩提資糧論
 #+PROPERTY: CBETA_ID T32n1660
 #+PROPERTY: ID KR6o0065
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1660
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6o0065_T_000-0517b>¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0065_T_006-0537c> 
 #+PROPERTY: JUAN 6
 ¶
 ¶
-
- 菩提資糧論卷第六¶
+菩提資糧論卷第六¶
 ¶
 聖者龍樹本　比丘自在釋¶
 大隋南印度三藏達磨笈多譯¶
